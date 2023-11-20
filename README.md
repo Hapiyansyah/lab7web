@@ -1,3 +1,5 @@
 # lab7web
 
-`[php](php.png)
+![php](php.png)
+
+![phpp](phpp.png)
